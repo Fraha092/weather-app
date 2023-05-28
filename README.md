@@ -7,3 +7,7 @@ A weather application built using Flutter technology and BLoC architecture, with
 --flutter clean
 --flutter pub get
 --flutter run
+# Screenshot:
+
+![image](https://github.com/Fraha092/weather-app/assets/79778136/d249308c-3d30-4d90-8a4b-6f6e7dad236f)
+![image](https://github.com/Fraha092/weather-app/assets/79778136/de09b384-4a42-4aa4-814a-fd95e8b2ff5f)
